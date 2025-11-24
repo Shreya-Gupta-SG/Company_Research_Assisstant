@@ -1,0 +1,5 @@
+Flask
+newsapi-python
+requests
+python-dotenv
+openai       # Optional, if using OpenAI for content synthesis
